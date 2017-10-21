@@ -5,6 +5,7 @@ import java.util.List;
 
 import com.repository.UserRepository;
 
+@RunWith(MockitoJUnitRunner.class)
 public class UserRepositoryTest {
 
 	@InjectMocks
