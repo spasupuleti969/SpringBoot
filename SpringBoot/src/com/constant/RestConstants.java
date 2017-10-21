@@ -1,7 +1,7 @@
 package com.constant;
 
 public class RestConstants {
-	public static Integer successCode=200;
+	public static Integer successCode=200;  
 	public static String DUPLICATE_EMAIL="email Id already exists";
 	public static String UPDATE_MESSAGE="Updated Successfully";
 	public static String CREATE_MESSAGE="Successfully Added";
